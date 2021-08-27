@@ -1,5 +1,5 @@
 <hr>
-<img style="border-radius:20px" src="https://github.com/MaximilianLau/MaximilianLau/blob/master/header.png" alt="Maximilian's Website Header")
+<img style="border-radius:20px" src="https://github.com/MaximilianLau/MaximilianLau/blob/main/header.png?raw=true" alt="Maximilian's Website Header")
 <hr>
 
 
