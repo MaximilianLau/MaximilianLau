@@ -1,4 +1,4 @@
-<img style="border-radius:20px" src="https://github.com/MaximilianLau/MaximilianLau/blob/main/header.png?raw=true" alt="Maximilian's Website Header")
+<img style="border-radius:20px" src="https://github.com/MaximilianLau/MaximilianLau/blob/main/header.png?raw=true" alt="Maximilian's Website Header")/>
 <hr>
 
 
