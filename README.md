@@ -24,7 +24,7 @@
 
 <div align="center">
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=MaximilianLau&show_icons=true&count_private=true&hide=stars,contribs&theme=vision-friendly-dark" alt="Maximilian's Github Commit Stats"/>
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianLau&hide_langs_below=1&theme=vision-friendly-dark&layout=compact" alt="Maximilian's Github Language Stats"/>
+<img align="center" height="150px" src="https://github-readme-stats-maximilianlau.vercel.app/api/top-langs/?username=MaximilianLau&hide_langs_below=1&theme=vision-friendly-dark&layout=compact" alt="Maximilian's Github Language Stats"/>
 </div>
 
 <hr>
